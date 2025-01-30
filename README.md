@@ -55,3 +55,5 @@ To make the experience more interactive, I implemented Figma prototyping, allowi
 This redesign not only improves the visual appeal of the landing page but also enhances user engagement through a well-structured and interactive design. By simplifying navigation, optimizing filters, and maintaining a clean layout, the page provides an intuitive and seamless experience for users searching for properties. Through this project, I have strengthened my skills in UI/UX design principles, visual hierarchy, typography, and interactive prototyping using Figma. This task was a great learning experience in improving digital interfaces for better usability and customer satisfaction.
 
 ****OUTPUT****
+
+![Image](https://github.com/user-attachments/assets/0b9841da-4f67-42c3-80c7-fc495b2bbc75)

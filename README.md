@@ -57,3 +57,5 @@ This redesign not only improves the visual appeal of the landing page but also e
 ****OUTPUT****
 
 ![Image](https://github.com/user-attachments/assets/0b9841da-4f67-42c3-80c7-fc495b2bbc75)
+
+https://github.com/user-attachments/assets/b22e4241-d4b2-4178-9168-ff427b31328d
